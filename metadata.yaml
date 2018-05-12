@@ -1,4 +1,5 @@
 _repo: History-of-the-Jews-in-Russia-and-Poland-From-the-Earliest-Times-Until-the-Present-Day-Volume__47212
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Friedlaender, Israe͏̈l
@@ -7,6 +8,9 @@ contributor:
     gutenberg_agent_id: '41231'
     url: http://www.gutenberg.org/2009/agents/41231
     wikipedia: http://en.wikipedia.org/wiki/Israel_Friedlander
+covers:
+- cover_type: archival
+  image_path: 47212-h/images/cover.jpg
 creator:
   author:
     agent_name: Dubnow, Simon
@@ -22,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6230
     wikipedia: http://en.wikipedia.org/wiki/Simon_Dubnow
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47212#History-of-the-Jews-in-Russia-and-Poland-From-the-Earliest-Times-Until-the-Present-Day-Volume_
 gutenberg_issued: '2014-10-27'
 gutenberg_type: Text
 identifiers:
